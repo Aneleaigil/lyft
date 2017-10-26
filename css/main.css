@@ -1,3 +1,81 @@
-/*
- * Estilos de tu proyecto
- */
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+body{
+margin:0 auto;
+}
+
+nav{
+	background: #291D40;
+	position: fixed;
+    top:0;
+    width: 100%;
+    padding: 20px;
+
+}
+.contenedor-1{
+	background-image: url(../assets/images/hero.gif);
+	background-size: cover;
+	height: 600px;
+
+}
+.menu ul li{
+	display: inline-block;
+	
+}
+.menu li a{
+	color: white;
+	padding: 10px;
+	margin:  15px;
+    font-size: 20px;
+	text-decoration: none;
+	
+}
+.menu li {
+   /*outline:1px solid red;*/
+   
+}
+header{
+  background: #291D40;
+  margin-top: 70px;
+  overflow: hidden;
+  clear: both;
+  /*padding: 50px;*/
+
+}
+.cuadro-1{
+	background: white;
+	width: 500px;
+	/*height: 300px;*/
+    float: right;
+	/*outline: 1px solid red;*/
+	padding:50px;
+	color: #352384;
+}
+.cuadro-1 h1{
+	font-size: 40px;
+	
+}
+.logo img{
+	width: 60px;
+}
+.logo{
+	padding-right: 550px;
+}
+.boton-log{
+	border: 2px solid blue;
+	background: #FF00BF;
+	color:white;
+	width: 150px;
+	padding: 10px;
+	text-align: center;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+hr{
+	border: 1px solid #C6CDDD;
+	width: 500px;
+
+}
+
