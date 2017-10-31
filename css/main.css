@@ -1,5 +1,6 @@
 *{
 	font-family: 'Montserrat', sans-serif;
+	
 }
 body{
 margin:0 auto;
@@ -160,12 +161,14 @@ padding-left: 0px;
 .contenedor-3{
     overflow: hidden;
     clear: both;
+
 }
 .cuadro-3{
 	width: 500px;
 	margin-left: 90px;
 	margin-top: 60px;
 	text-align: justify;
+	
 }
 .ver{
     text-decoration: none;
@@ -187,11 +190,13 @@ padding-left: 0px;
 	float: right;
 	/*outline: 1px solid red;*/
 	bottom: 100px;
+	
 }
 
 .contenedor-4{
 	overflow: hidden;
 	clear: both;
+	margin-top: -4px;
 }
 .cuadro-4{
 	width: 400px;
@@ -216,6 +221,8 @@ padding-left: 0px;
 .contenedor-5{
 	overflow: hidden;
 	clear: both;
+    margin-top: -4px;
+	
 }
 .video-3{
 float: right;
@@ -226,6 +233,7 @@ bottom: 100px;
     margin-left: 0px;
 	text-align: justify;
 	margin-top: 30px;
+
 }
 
 .ver3{
@@ -247,7 +255,7 @@ footer{
 	background: #333447;
 	/*outline: 1px solid red;*/
 	padding-top: 110px;
-	
+	margin-top: -4px;
 }
 .linea-2{
 	border: 1px solid #C6CDDD;
